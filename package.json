@@ -1,0 +1,23 @@
+{
+  "name": "r3ksthepepebot",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "By r3ks",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "chance": "^1.0.18",
+    "common-tags": "^1.8.0",
+    "discord.js": "^11.5.1",
+    "generate-password": "^1.4.2",
+    "math-expression-evaluator": "^1.2.17",
+    "moment": "^2.24.0",
+    "parse-ms": "^2.1.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
